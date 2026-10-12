@@ -1,15 +1,125 @@
 {
-  "updated_at": "2026-10-12T00:00:00+00:00",
+  "updated_at": "2026-10-12T16:03:04+00:00",
   "positions": [
-    {"institution":"Nantes Université","project":"Magnetically activatable nanoassemblies for targeted immunomodulation","country":"France","funding":"ANR doctoral contract","status":"Expired","deadline":"2026-09-22","fit":"Direct","source_url":"https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/140081/job/phd-in-chemistry-m-f-magnetically-activatable-nanoassemblies-for-targeted-immunomodulation-of-autoimmune-hepatitis","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"University of Oxford","project":"Botnar-2026-01: drug delivery for cartilage repair","country":"United Kingdom","funding":"Competitive funded DPhil","status":"Active – competitive","deadline":"2026-12-01","fit":"Direct","source_url":"https://www.findaphd.com/phds/phd.aspx?DID=26","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"Adelaide University","project":"Fluorescent polymer probes for precision surgery","country":"Australia","funding":"Stipend + international tuition","status":"Expired","deadline":"2026-09-25","fit":"Direct","source_url":"https://www.jobleads.com/au/job/fully-funded-phd-scholarships-to-develop-fluorescent-polymer-probes-for-precision-surgery--adelaide--e555eec833ee63f8a8e63cb2a78a78e1e","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"Aston University","project":"Smartwatch prediction of asthma attacks","country":"United Kingdom","funding":"Fully funded studentship","status":"Expired","deadline":"2026-09-15","fit":"Adjacent","source_url":"https://www.aston.ac.uk/postgraduate-research/phd/find-a-phd","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"University of Auckland","project":"Improving vitamin supplementation of preterm babies","country":"New Zealand","funding":"HRC fully funded scholarship","status":"Expired","deadline":"2026-09-30","fit":"Strong","source_url":"https://www.auckland.ac.nz/en/liggins/study-with-us/study-options/find-a-research-project-1/liggins-research-project-16.html","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"Monash University Malaysia","project":"PBMC gut–immune co-culture model for gut-brain disorders","country":"Malaysia","funding":"GRES full tuition + stipend","status":"Active – competitive","deadline":"2026-10-31","fit":"Adjacent","source_url":"https://www.monash.edu.my/mumgro/fully-funded-phd-opportunities-gres","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"Monash University Malaysia","project":"Hydrogel capture of latent DNA and biomarkers","country":"Malaysia","funding":"GRES full tuition + stipend","status":"Active – competitive","deadline":"2026-10-31","fit":"Stretch","source_url":"https://www.monash.edu.my/mumgro/fully-funded-phd-opportunities-gres","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"Monash University Malaysia","project":"GEMS: therapeutic neural models with psychedelic compounds","country":"Malaysia","funding":"GEMS full tuition + stipend","status":"Active – choose one topic","deadline":"2026-10-31","fit":"Adjacent","source_url":"https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship/thematic-cluster-map-neuro-diverse-hipsc-models%2C-ai-analytics-and-mechanism-guided-therapeutics","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"University of Warwick","project":"Nanointerfaces and next-generation elastomer technologies","country":"United Kingdom","funding":"Industry funding, fees + UKRI stipend","status":"Expired","deadline":"2026-10-01","fit":"Stretch","source_url":"https://warwick.ac.uk/fac/sci/wmg/study/research-degrees/vacancies/","source":"Audited tracker","discovered_at":"2026-10-12"},
-    {"institution":"Helmholtz Munich","project":"Epigenetics and cellular metabolism","country":"Germany","funding":"PhD employment route","status":"Urgent – funding to confirm","deadline":null,"fit":"Adjacent","source_url":"https://www.helmholtz-munich.de/ife/job-opportunities","source":"Audited tracker","discovered_at":"2026-10-12"}
+    {
+      "institution": "Nantes Université",
+      "project": "Magnetically activatable nanoassemblies for targeted immunomodulation",
+      "country": "France",
+      "funding": "ANR doctoral contract",
+      "status": "Expired",
+      "deadline": "2026-09-22",
+      "fit": "Direct",
+      "source_url": "https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/140081/job/phd-in-chemistry-m-f-magnetically-activatable-nanoassemblies-for-targeted-immunomodulation-of-autoimmune-hepatitis",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "University of Oxford",
+      "project": "Botnar-2026-01: drug delivery for cartilage repair",
+      "country": "United Kingdom",
+      "funding": "Competitive funded DPhil",
+      "status": "Active – competitive",
+      "deadline": "2026-12-01",
+      "fit": "Direct",
+      "source_url": "https://www.findaphd.com/phds/phd.aspx?DID=26",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "Adelaide University",
+      "project": "Fluorescent polymer probes for precision surgery",
+      "country": "Australia",
+      "funding": "Stipend + international tuition",
+      "status": "Expired",
+      "deadline": "2026-09-25",
+      "fit": "Direct",
+      "source_url": "https://www.jobleads.com/au/job/fully-funded-phd-scholarships-to-develop-fluorescent-polymer-probes-for-precision-surgery--adelaide--e555eec833ee63f8a8e63cb2a78a78e1e",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "Aston University",
+      "project": "Smartwatch prediction of asthma attacks",
+      "country": "United Kingdom",
+      "funding": "Fully funded studentship",
+      "status": "Expired",
+      "deadline": "2026-09-15",
+      "fit": "Adjacent",
+      "source_url": "https://www.aston.ac.uk/postgraduate-research/phd/find-a-phd",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "University of Auckland",
+      "project": "Improving vitamin supplementation of preterm babies",
+      "country": "New Zealand",
+      "funding": "HRC fully funded scholarship",
+      "status": "Expired",
+      "deadline": "2026-09-30",
+      "fit": "Strong",
+      "source_url": "https://www.auckland.ac.nz/en/liggins/study-with-us/study-options/find-a-research-project-1/liggins-research-project-16.html",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "Monash University Malaysia",
+      "project": "PBMC gut–immune co-culture model for gut-brain disorders",
+      "country": "Malaysia",
+      "funding": "GRES full tuition + stipend",
+      "status": "Active – competitive",
+      "deadline": "2026-10-31",
+      "fit": "Adjacent",
+      "source_url": "https://www.monash.edu.my/mumgro/fully-funded-phd-opportunities-gres",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "Monash University Malaysia",
+      "project": "Hydrogel capture of latent DNA and biomarkers",
+      "country": "Malaysia",
+      "funding": "GRES full tuition + stipend",
+      "status": "Active – competitive",
+      "deadline": "2026-10-31",
+      "fit": "Stretch",
+      "source_url": "https://www.monash.edu.my/mumgro/fully-funded-phd-opportunities-gres",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "Monash University Malaysia",
+      "project": "GEMS: therapeutic neural models with psychedelic compounds",
+      "country": "Malaysia",
+      "funding": "GEMS full tuition + stipend",
+      "status": "Active – choose one topic",
+      "deadline": "2026-10-31",
+      "fit": "Adjacent",
+      "source_url": "https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship/thematic-cluster-map-neuro-diverse-hipsc-models%2C-ai-analytics-and-mechanism-guided-therapeutics",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "University of Warwick",
+      "project": "Nanointerfaces and next-generation elastomer technologies",
+      "country": "United Kingdom",
+      "funding": "Industry funding, fees + UKRI stipend",
+      "status": "Expired",
+      "deadline": "2026-10-01",
+      "fit": "Stretch",
+      "source_url": "https://warwick.ac.uk/fac/sci/wmg/study/research-degrees/vacancies/",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "Helmholtz Munich",
+      "project": "Epigenetics and cellular metabolism",
+      "country": "Germany",
+      "funding": "PhD employment route",
+      "status": "Urgent – funding to confirm",
+      "deadline": null,
+      "fit": "Adjacent",
+      "source_url": "https://www.helmholtz-munich.de/ife/job-opportunities",
+      "source": "Audited tracker",
+      "discovered_at": "2026-10-12"
+    }
   ]
 }
