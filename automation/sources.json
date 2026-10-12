@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bing RSS – funded drug-delivery PhDs",
+    "query": "funded PhD OR DPhil drug delivery nanoparticle international scholarship",
+    "country": "International",
+    "funding_route": "Funding to verify",
+    "institution_fallback": "Unknown – verify",
+    "allowed_domains": ["ox.ac.uk", "monash.edu", "helmholtz", "findaphd.com", "euraxess.ec.europa.eu", "ac.uk"]
+  },
+  {
+    "name": "Bing RSS – pharmaceutical nanotechnology PhDs",
+    "query": "fully funded doctoral position pharmaceutical nanotechnology formulation drug delivery",
+    "country": "International",
+    "funding_route": "Funding to verify",
+    "institution_fallback": "Unknown – verify",
+    "allowed_domains": ["ox.ac.uk", "monash.edu", "helmholtz", "findaphd.com", "euraxess.ec.europa.eu", "ac.uk"]
+  },
+  {
+    "name": "Bing RSS – biomedical PhDs open to international applicants",
+    "query": "PhD scholarship biomedical drug delivery international applicants stipend tuition",
+    "country": "International",
+    "funding_route": "Funding to verify",
+    "institution_fallback": "Unknown – verify",
+    "allowed_domains": ["ox.ac.uk", "monash.edu", "helmholtz", "findaphd.com", "euraxess.ec.europa.eu", "ac.uk"]
+  }
+]

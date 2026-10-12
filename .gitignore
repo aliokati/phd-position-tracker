@@ -1,0 +1,5 @@
+automation/phd_gatherer.log
+automation/cloud_gatherer.log
+outputs/*.xlsx.bak
+__pycache__/
+automation/__pycache__/
