@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T08:05:29+00:00",
+  "updated_at": "2026-10-14T14:06:59+00:00",
   "positions": [
     {
       "institution": "Nantes Université",
@@ -120,6 +120,18 @@
       "source_url": "https://www.helmholtz-munich.de/ife/job-opportunities",
       "source": "Audited tracker",
       "discovered_at": "2026-10-12"
+    },
+    {
+      "institution": "Unknown – verify",
+      "project": "Explained: What is a PhD Degree? - Your Ultimate Guide - FindAPhD",
+      "country": "International",
+      "funding": "Funding to verify",
+      "status": "Discovered – verify",
+      "deadline": null,
+      "fit": "To assess",
+      "source_url": "https://www.findaphd.com/guides/what-is-a-phd",
+      "source": "Bing RSS – biomedical PhDs open to international applicants",
+      "discovered_at": "2026-10-14"
     }
   ]
 }
