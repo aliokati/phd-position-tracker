@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:01:44+00:00",
+  "updated_at": "2026-10-22T14:09:34+00:00",
   "positions": [
     {
       "institution": "Nantes Université",
@@ -132,6 +132,18 @@
       "source_url": "https://www.findaphd.com/guides/what-is-a-phd",
       "source": "Bing RSS – biomedical PhDs open to international applicants",
       "discovered_at": "2026-10-14"
+    },
+    {
+      "institution": "Unknown – verify",
+      "project": "What is a PhD? | Doctoral study explained | Prospects.ac.uk",
+      "country": "International",
+      "funding": "Funding to verify",
+      "status": "Discovered – verify",
+      "deadline": null,
+      "fit": "To assess",
+      "source_url": "https://www.prospects.ac.uk/postgraduate-study/phd-study/what-is-a-phd/",
+      "source": "Bing RSS – biomedical PhDs open to international applicants",
+      "discovered_at": "2026-10-22"
     }
   ]
 }
