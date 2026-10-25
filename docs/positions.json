@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T01:59:36+00:00",
+  "updated_at": "2026-10-25T07:52:15+00:00",
   "positions": [
     {
       "institution": "Nantes Université",
@@ -144,6 +144,18 @@
       "source_url": "https://www.prospects.ac.uk/postgraduate-study/phd-study/what-is-a-phd/",
       "source": "Bing RSS – biomedical PhDs open to international applicants",
       "discovered_at": "2026-10-22"
+    },
+    {
+      "institution": "Unknown – verify",
+      "project": "How to Apply For a PhD: Step-By-Step - FindAPhD.com",
+      "country": "International",
+      "funding": "Funding to verify",
+      "status": "Discovered – verify",
+      "deadline": null,
+      "fit": "To assess",
+      "source_url": "https://www.findaphd.com/guides/phd-application-step-by-step-checklist",
+      "source": "Bing RSS – biomedical PhDs open to international applicants",
+      "discovered_at": "2026-10-25"
     }
   ]
 }
