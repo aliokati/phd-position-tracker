@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T18:36:33+00:00",
+  "updated_at": "2026-11-07T00:28:17+00:00",
   "positions": [
     {
       "institution": "Nantes Université",
@@ -156,6 +156,30 @@
       "source_url": "https://www.findaphd.com/guides/phd-application-step-by-step-checklist",
       "source": "Bing RSS – biomedical PhDs open to international applicants",
       "discovered_at": "2026-10-25"
+    },
+    {
+      "institution": "Unknown – verify",
+      "project": "PhD Study in Canada – 2025 - FindAPhD",
+      "country": "International",
+      "funding": "Funding to verify",
+      "status": "Discovered – verify",
+      "deadline": null,
+      "fit": "To assess",
+      "source_url": "https://www.findaphd.com/guides/phd-study-in-canada/",
+      "source": "Bing RSS – biomedical PhDs open to international applicants",
+      "discovered_at": "2026-11-07"
+    },
+    {
+      "institution": "Unknown – verify",
+      "project": "PhD Projects, Programmes & Scholarships in Canada - 6 PhDs Listed",
+      "country": "International",
+      "funding": "Funding to verify",
+      "status": "Discovered – verify",
+      "deadline": null,
+      "fit": "To assess",
+      "source_url": "https://www.findaphd.com/phds/canada/?g0w000",
+      "source": "Bing RSS – biomedical PhDs open to international applicants",
+      "discovered_at": "2026-11-07"
     }
   ]
 }
