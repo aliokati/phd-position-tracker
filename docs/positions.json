@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T04:37:03+00:00",
+  "updated_at": "2026-11-12T14:06:28+00:00",
   "positions": [
     {
       "institution": "Nantes Université",
@@ -180,6 +180,18 @@
       "source_url": "https://www.findaphd.com/phds/canada/?g0w000",
       "source": "Bing RSS – biomedical PhDs open to international applicants",
       "discovered_at": "2026-11-07"
+    },
+    {
+      "institution": "Unknown – verify",
+      "project": "PhD Programmes, Research Projects & Studentships in the UK & Europe",
+      "country": "International",
+      "funding": "Funding to verify",
+      "status": "Discovered – verify",
+      "deadline": null,
+      "fit": "To assess",
+      "source_url": "https://www.findaphd.com/",
+      "source": "Bing RSS – biomedical PhDs open to international applicants",
+      "discovered_at": "2026-11-12"
     }
   ]
 }
