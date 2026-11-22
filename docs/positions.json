@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:26:37+00:00",
+  "updated_at": "2026-11-22T18:45:17+00:00",
   "positions": [
     {
       "institution": "Nantes Université",
@@ -192,6 +192,18 @@
       "source_url": "https://www.findaphd.com/",
       "source": "Bing RSS – biomedical PhDs open to international applicants",
       "discovered_at": "2026-11-12"
+    },
+    {
+      "institution": "Unknown – verify",
+      "project": "PhD Projects, Programmes & Scholarships in New York",
+      "country": "International",
+      "funding": "Funding to verify",
+      "status": "Discovered – verify",
+      "deadline": null,
+      "fit": "To assess",
+      "source_url": "https://www.findaphd.com/phds/new-york/?M00lSSP0",
+      "source": "Bing RSS – biomedical PhDs open to international applicants",
+      "discovered_at": "2026-11-22"
     }
   ]
 }
